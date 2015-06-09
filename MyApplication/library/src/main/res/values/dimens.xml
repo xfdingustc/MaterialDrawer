@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_drawer_drawableSize">50dp</dimen>
+    <dimen name="material_drawer_barSize">18dp</dimen>
+    <dimen name="material_drawer_topBottomBarArrowSize">11dp</dimen>
+    <dimen name="material_drawer_thickness">2dp</dimen>
+    <dimen name="material_drawer_gapBetweenBars">3dp</dimen>
+    <dimen name="material_drawer_middleBarArrowSize">16dp</dimen>
+</resources>
